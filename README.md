@@ -1,4 +1,4 @@
-# Iris Classification Project
+# Iris Classification Project ML
 
 Simple machine learning project using the Iris dataset.
 
